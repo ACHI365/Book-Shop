@@ -1,4 +1,3 @@
-package fop.w11shop;
 
 public class Customer extends Thread {
 
