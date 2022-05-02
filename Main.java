@@ -1,5 +1,3 @@
-package fop.w11shop;
-
 public class Main {
     public static void main(String[] args) {
         BookShop shop = new BookShop();
